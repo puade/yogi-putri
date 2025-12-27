@@ -227,9 +227,11 @@ function displayAlert(message) {
 //AWAL FUNGSI POPUP FOTO
 
 const images = [
+  './img/3.jpg',
+  './img/2.jpg',
   './img/1-artguru.jpg',
-  './img/3-artguru.jpg',
-  './img/2-artguru.jpg',
+  './img/4.jpg',
+  './img/5.jpg',
 ];
 
 let currentIndex = 0;
